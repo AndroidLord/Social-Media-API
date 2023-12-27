@@ -1,11 +1,13 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+import models
+from database import engine
 from routers import post, user, auth, votes
 from config import settings
 
-# Ealier used by sqlalchemy to run the server but now we are using database migrate called alembic
-#models.Base.metadata.create_all(bind=engine)
+# Ealier used by sqlalchemy to run the server, but now we are using database migrate called alembic
+models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
