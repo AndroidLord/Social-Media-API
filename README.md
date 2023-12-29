@@ -1,30 +1,29 @@
-# FastAPI API Project
-# Description
-This project is a robust social media API built using FastAPI and Python, providing essential functionalities for user management, post creation, and a voting system. It follows a three-tier structure, catering to admins, vendors, and customers. The API incorporates user authentication, relational databases, and various endpoints for creating, retrieving, updating, and deleting posts.
+### FastAPI API Project
+## Description
+This project is a robust social media API built using FastAPI and Python, providing essential functionalities for user management, post creation, and a voting system.The API incorporates user authentication, relational databases, and various endpoints for creating, retrieving, updating, and deleting posts.
 
-# Demo/Project
+## Demo/Project
 🔗 Check out the API in action [link](https://fastapi-example-713q.onrender.com/docs)
 
-# Features
-User Management: Efficiently manage users with different roles (admin, vendor, customer).
+## Features
 Post Operations: CRUD functionalities for creating, retrieving, updating, and deleting posts.
 Voting System: Implement a sophisticated voting/like system for posts.
 Authentication: Secure endpoints with user authentication using JWT tokens.
 
-# Technology Used
+## Technology Used
 FastAPI: A modern, fast web framework for building APIs with Python.
 Python: The core language driving the application.
 PostgreSQL: Utilized as the backend database to store user data and posts.
 
-# Future Scope
+## Future Scope
 Enhanced Security: Implement additional security measures and user verification.
 Extended Features: Add more features such as comments, notifications, and user interactions.
 Scalability: Optimize the API for increased performance and scalability.
-Installation
+
+## Installation
 
 # Clone Repository:
 git clone [https://github.com/your-username/your-repo.git](https://github.com/AndroidLord/FastAPI.git)
-
 
 # Install Dependencies:
 pip install -r requirements.txt
@@ -32,20 +31,13 @@ pip install -r requirements.txt
 # Run Application:
 uvicorn main:app --reload
 
-# Contributing
+## Contributing
 We welcome contributions! If you have suggestions or find any issues, feel free to open a pull request.
 
-# Conclusion
+## Conclusion
 Thank you for exploring the Social Media API! We hope this project serves as a foundation for your API development endeavors. Connect with us for any queries or collaborations.
 
 ------------------------------------------------------------------------------------------------------------------
-
-# How to Run the Project
-Clone the repository: git clone https://github.com/Sanjeev-Thiyagarajan...
-Navigate to the project directory: cd project-directory
-Install dependencies: pip install -r requirement.txt
-Run the FastAPI server: uvicorn main:app --reload
-Feel free to explore the course material and delve into the intricacies of FastAPI API development. 
 
 # Course Details
 Instructor: Sanjeev Thiyagarajan
