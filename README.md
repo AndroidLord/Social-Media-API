@@ -5,7 +5,7 @@ This project is a robust social media API built using FastAPI and Python, provid
 The API incorporates user authentication, relational databases, and various endpoints for creating, retrieving, updating, and deleting posts.
 
 # Demo/Project
-🔗 Check out the API in action [link](https://fastapi-example-713q.onrender.com/docs)
+🔗 Check out the API in action [link](http://shubhambisht.me/docs)
 
 # Features
 
