@@ -32,7 +32,7 @@ Scalability: Optimize the API for increased performance and scalability.
 # Installation
 
 ### Clone Repository: 
-git clone [https://github.com/your-username/your-repo.git](https://github.com/AndroidLord/FastAPI.git)
+git clone [https://github.com/AndroidLord/FastAPI.git](https://github.com/AndroidLord/FastAPI.git)
 
 ### Install Dependencies: 
 pip install -r requirement.txt
