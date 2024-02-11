@@ -32,6 +32,6 @@ app.include_router(votes.router)
 # Home Url
 @app.get('/')
 def root():
-    return {"message": "Hello World"}
+    return {"message": "Holla, Welcome to the SocialMedia API. Please visit /docs for documentation."}
 
 
